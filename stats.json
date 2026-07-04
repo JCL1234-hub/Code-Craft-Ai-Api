@@ -1,0 +1,13 @@
+{
+  "totalRequests": 0,
+  "todayRequests": 0,
+  "uniqueUsers": [],
+  "endpoints": {
+    "chat": 0,
+    "code": 0,
+    "image": 0,
+    "tts": 0
+  },
+  "lastRequest": "",
+  "lastIp": ""
+}
