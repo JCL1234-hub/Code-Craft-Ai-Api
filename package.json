@@ -1,0 +1,15 @@
+{
+  "name": "universal-ai-api",
+  "version": "1.0.0",
+  "description": "Production-ready AI API using Google AI Studio (Gemini)",
+  "main": "api/status.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "author": "@username_506",
+  "license": "MIT"
+}
